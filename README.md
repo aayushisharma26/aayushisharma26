@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aayushi Sharma <br> <h3 >**Passionate React Developer**</h3> <div ><img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611ae0247a7fc36605155a13d7416e5c1ab29b18170&rid=giphy.gif&ct=g" width="100%" height="300px"></div>
+# Hi 👋, I'm Aayushi Sharma <br> <h3 >**Passionate MERN Stack Developer**</h3> <div ><img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611ae0247a7fc36605155a13d7416e5c1ab29b18170&rid=giphy.gif&ct=g" width="100%" height="300px"></div>
  
 # 💫About Me 
 •🌱 I’m currently learning - Full Stack <br>
