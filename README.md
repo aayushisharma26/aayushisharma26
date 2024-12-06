@@ -1,62 +1,38 @@
-# 🎥 Welcome to My GitHub Space!  
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=2088&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Your Name" width="400"/>  
-  <!-- Or embed a video -->
-  <!-- <video src="https://your-video-link-here.com" controls width="500"></video> -->
-</div>  
+# Hi 👋, I'm Aayushi Sharma <br> <h3 >**Passionate MERN Stack Developer**</h3> <div ><img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611ae0247a7fc36605155a13d7416e5c1ab29b18170&rid=giphy.gif&ct=g" width="100%" height="300px"></div>
+ 
+# 💫About Me 
+•🌱 I’m currently learning - Full Stack <br>
+• 📫 How to reach me - aayushisharma20@navgurukul.org <br>
+• 📄 Know about my experiences - [RESUME](https://drive.google.com/file/d/1bsRT99XB22pgsLEgNQbhgo6L0zEqmPEk/view?usp=sharing)
 
----
+<h2 align="center">Contact Me At :star:</h2>
 
-## 👋 Hi, I'm Aayushi Sharma  
+<p align="center">
+   <a href="mailto:aayushisharma20@navgurukul.org"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aayushi-sharma-/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ </p> 
 
-I’m a passionate *Mern Stack* who loves crafting clean code, building amazing projects, and solving real-world problems. Whether it's a challenging web app, an exciting open-source collaboration, or a weekend hackathon, you’ll find me immersed in creating.  
-
----
-
-### 🌟 About Me  
-💻 *Role*: Mern Stack/Software Developer / Frontend Engineer 
-🌍 *From*: Pune Maharashtra  
-🎯 *Mission*: Building digital solutions that matter.  
-🌱 *Currently Learning*: tailwind  
-📌 *Hobbies*: Coding, storytelling, and exploring the world of AI.  
-
----
-
-### 🛠️ My Toolbox  
-Here are the tools that power my projects:  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white)  
+<br/>
 
 
----
 
-### 🌍 My Projects  
-🚀 *country-explorer(https://country-explorer-xi.vercel.app/)*  
-   - Country Explorer is your gateway to discovering and learning about countries worldwide.  
-   - *Tech Used*: Html, CSS, Javascript.  
 
-✨ *chaning-dashboard(https://chaning-dashboard.vercel.app/)*  
-   - Fetch and display users from the API.  
-   - *Tech Used*: React. js, Css, tailwind etc.  
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+📊GitHub Stats :
+
+![](https://github-readme-stats.vercel.app/api?username=aayushisharma&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aayushisharma&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaayushisharma&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aayushisharma&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-### 📊 My GitHub Snapshot  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
-
----
-
-### 📬 Let’s Connect!  
-- 🌐 *Portfolio*: [Your Portfolio Link]  
-- 💼 *LinkedIn*: [Your LinkedIn Profile Link]  
-- 📧 *Email*: aayushisharma20@navgurukul.org
--   
-
----
-
-> "The best way to predict the future is to create it."
+[![](https://visitcount.itsvg.in/api?id=aayushisharma&icon=0&color=0)](https://visitcount.itsvg.in)
